@@ -3,6 +3,7 @@
 }
  nav {
 	 float: right;
+	 font-size: 20px;
 }
  nav ul {
 	 margin: 0;
@@ -14,10 +15,11 @@
 }
  body {
 	 background: #000000;
-	 color: #fff;
+	 color: rgb(0, 0, 0)505;
+	 font-size: 30px;
 }
  a {
-	 color: #808000
+	 color: #000000
 }
  h1 {
 	 color: #008080
